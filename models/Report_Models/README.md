@@ -1,5 +1,7 @@
 # Statistical-Machine-Learning-Assignment2
 
+The GitHub repository is at https://github.com/DavidL124/Statistical-Machine-Learning-Assignment2
+
 The ipynb files in this folder are used to run the models described in the report. They are as follows:
 
 - Model2NoText: uses the number of co-authors, and importantly the combined word counts of the abstract and title are included in the column "text".
