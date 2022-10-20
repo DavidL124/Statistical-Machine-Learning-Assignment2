@@ -1,5 +1,7 @@
 # Statistical-Machine-Learning-Assignment2
 
+For the group with Kaggle team name "Group Number 58".
+
 The GitHub repository is at https://github.com/DavidL124/Statistical-Machine-Learning-Assignment2
 
 The ipynb files in this folder are used to run the models described in the report. They are as follows:
